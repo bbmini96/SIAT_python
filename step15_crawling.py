@@ -66,21 +66,22 @@ bs4.element.Tag.get_text() # Tag 내부의 content 출력
 
 
 # 실습)
-response_forves = requests.request('GET','https://www.forbes.com/advisor/credit-cards/travel-rewards/best-places-to-travel/')
+# response_forves = requests.request('GET','https://www.forbes.com/advisor/credit-cards/travel-rewards/best-places-to-travel/')
 
-soup_forves = BeautifulSoup(response_forves.content,'html.parser')
-# trv_names = soup_forves.find_all('h3')
-trv_names = soup_forves.find_all('h3', id =True)
+# soup_forves = BeautifulSoup(response_forves.content,'html.parser')
+# # trv_names = soup_forves.find_all('h3')
+# trv_names = soup_forves.find_all('h3', id =True)
 
-count = 0
+# count = 0
 
-with open('forves.txt', 'w', encoding='UTF-8') as f:
-    for trv_name in trv_names:
-        count += 1
-        result = f"{count} {trv_name.get_text()}"
-        print(result)
-        f.write(str(result))
-        f.write('\n')
+# with open('forves.txt', 'w', encoding='UTF-8') as f:
+#     for trv_name in trv_names:
+#         count += 1
+#         result = f"{count} {trv_name.get_text()}"
+#         print(result)
+#         f.write(str(result))
+#         f.write('\n')
+
 
 
 
