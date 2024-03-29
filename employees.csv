@@ -1,0 +1,15 @@
+eid,ename,job,dept,bonus
+1001,Aiden,Analyist,Research,0
+1002,Austin,Engineer,Tech,None
+1003,Cameron,Analyist,Research,20
+1004,Dominic,Engineer,Tech,None
+1005,Evan,Manager,Executive,1000
+1006,Frank,Analyist,Executive,2000
+1007,George,Analyist,Research,100
+1008,Jacob,Analyist,Research,100
+1009,Kyle,Engineer,Tech,None
+1010,Mason,Analyist,Research,100
+1011,Mason,Engineer,Tech,None
+1012,Scott,Engineer,Tech,None
+1013,William,Analyist,Research,50
+1014,Winston,Engineer,Executive,3000

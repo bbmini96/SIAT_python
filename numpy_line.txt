@@ -1,0 +1,14 @@
+1: NumPy is the fundamental package for scientific computing with Python. It contains among other things:
+2: 
+3: # comment1..
+4: 
+5:   * a powerful N-dimensional array object
+6:   * sophisticated (broadcasting) functions
+7:   * tools for integrating C/C++ and Fortran code
+8:   * useful linear algebra, Fourier transform, and random number capabilities
+9: 
+10: # comment2..
+11: 
+12: Besides its obvious scientific uses, NumPy can also be used as an efficient multi-dimensional container of generic data. Arbitrary data-types can be defined. This allows NumPy to seamlessly and speedily integrate with a wide variety of databases.
+13: 
+14: Numpy is licensed under the BSD license, enabling reuse with few restrictions.

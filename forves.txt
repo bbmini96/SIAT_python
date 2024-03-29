@@ -1,0 +1,51 @@
+1 Aptos, California
+2 Canyonlands National Park, Utah
+3 Kodiak, Alaska
+4 Willamette Valley, Oregon
+5 Wyoming
+6 Baton Rouge, Louisiana
+7 Fredericksburg, Texas
+8 Hot Springs, Arkansas
+9 Hutchinson Island, Florida
+10 New Braunfels/Gruene, Texas
+11 Pine Mountain, Georgia
+12 Buffalo, New York
+13 Rangeley, Maine
+14 Virginia Wine Country
+15 Ann Arbor, Michigan
+16 Cleveland, Ohio
+17 Tulsa, Oklahoma
+18 Yellow Springs, Ohio
+19 Dominica
+20 Saba
+21 Basel, Switzerland
+22 Dorset, England
+23 Durbuy, Belgium
+24 Lucca, Italy
+25 Luxembourg
+26 Maribor, Slovenia
+27 Pogobie Tylne, Poland
+28 Tallinn, Estonia
+
+29 Theth National Park, Albania
+30 Timisoara, Romania
+31 Vilnius, Lithuania
+32 Barranquilla, Colombia
+33 Jardín, Colombia
+34 Loreto, Mexico
+35 Mendoza, Argentina
+36 Montevideo, Uruguay
+37 Puerto Natales, Chile
+38 Quebec City, Canada
+39 El Zonte, El Salvador
+40 Bhutan
+41 Mongolia
+42 Rishikesh, India
+43 Shikoku, Japan
+44 Timor-Leste
+45 Darwin, Australia
+46 Tasmania
+47 Namibia
+48 N’gor Island, Senegal
+49 Stellenbosch, South Africa
+50 Tunisia
